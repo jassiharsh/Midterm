@@ -300,4 +300,6 @@ public class ConnectDB {
 
     }
 
+    public void createTableFromString(String employee, String employee_name, String employeeID) {
+    }
 }

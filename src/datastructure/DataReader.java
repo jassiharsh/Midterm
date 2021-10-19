@@ -11,7 +11,7 @@ public class DataReader {
 	public static void main(String[] args) {
 		/*
 		 * User API to read the below textFile and print to console.
-		 * Use BufferedReader class. 
+		 * Use BufferedReader class.
 		 * Use try....catch block to handle Exception.
 		 *
 		 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
@@ -24,8 +24,34 @@ public class DataReader {
 		 * Use For Each loop/while loop/Iterator to retrieve data.
 		 */
 
-		//implementation here
+		FileReader fr = null;
+		BufferedReader br = null;
+		try {
+			fr = new FileReader("C:\\Users\\jassi\\OneDrive\\Desktop\\PIIT\\Test.text");
 
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		try {
+			br = new BufferedReader(fr);
+			String str = " ";
+			while ((str = br.readLine()) != null) {
+				System.out.println(str);
+			}
+		} catch (Exception exception) {
+			exception.printStackTrace();
+		} finally {
+			if (fr != null) {
+				try {
+					fr.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+
+		}
 	}
 }
+
+
 

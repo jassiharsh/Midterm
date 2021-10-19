@@ -6,4 +6,6 @@ public class EmployeeAbstract {
             System.out.println("employees should get 30 min paid break a day");
         }
 
+    public void companyProfile() {
+    }
 }
