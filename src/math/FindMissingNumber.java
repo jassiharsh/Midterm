@@ -13,7 +13,7 @@ public class FindMissingNumber {
          */
         int[] array = new int[]{10, 2, 1, 4, 5, 3, 7, 8, 6};
         int n = 10;
-        System.out.println("Missing index number in the given array is: " + FindMissingNumber.missingNumber(array, n));
+        System.out.println("Missing index number in the given array is: " + "FindMissingNumber.missingNumber(array, n)");
 
     }
 

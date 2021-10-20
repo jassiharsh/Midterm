@@ -19,7 +19,7 @@ public class PrimeNumber {
 		int num = 0;
 		String primeNumbers = "";
 
-		for (i = 1; i < 100; i++) {
+		for (i = 1; i < 10000; i++) {
 
 			int counter = 0;
 			for (num = i; num >=1; num--){

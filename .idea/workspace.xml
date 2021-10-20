@@ -3,16 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="9771989b-51b3-4e7c-b47c-ddb973a42c7b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/databases/ConnectDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databases/ConnectDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/EmployeeAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/EmployeeAbstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/FortuneEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/FortuneEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidtermCodingExam/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidtermCodingExam/definition/core-java-conceptual-questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidtermCodingExam/definition/data-structure-questions" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidtermCodingExam/definition/data-structure-questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/FindMissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/math/LowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/LowestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/MakePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/MakePyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/UnitTestingMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/UnitTestingMath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,20 +142,20 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnitTestingEmployeeInfo">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
       <option name="HEIGHT" value="0" />
       <module />
     </configuration>
-    <configuration name="DataReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.DataReader" />
+    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.FindMissingNumber" />
       <module name="MidtermCodingExam" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,7 +163,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LowestNumber (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.LowestNumber" />
       <module name="MidtermCodingExam" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -179,13 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTestingEmployeeInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.UnitTestingEmployeeInfo" />
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.Pattern" />
       <module name="MidtermCodingExam" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.*" />
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,13 +191,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.UseArrayList" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.PrimeNumber" />
       <module name="MidtermCodingExam" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,13 +205,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.UseMap" />
+    <configuration name="UnitTestingMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.UnitTestingMath" />
       <module name="MidtermCodingExam" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,19 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UseArrayList" />
-      <item itemvalue="Application.LowestNumber" />
-      <item itemvalue="Application.UseMap" />
-      <item itemvalue="Application.DataReader" />
-      <item itemvalue="Application.UnitTestingEmployeeInfo" />
+      <item itemvalue="Application.Pattern" />
+      <item itemvalue="Application.PrimeNumber" />
+      <item itemvalue="Application.UnitTestingMath" />
+      <item itemvalue="Application.LowestNumber (1)" />
+      <item itemvalue="Application.FindMissingNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnitTestingEmployeeInfo" />
-        <item itemvalue="Application.UseMap" />
-        <item itemvalue="Application.DataReader" />
-        <item itemvalue="Application.UseArrayList" />
-        <item itemvalue="Application.LowestNumber" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.UnitTestingMath" />
+        <item itemvalue="Application.LowestNumber (1)" />
+        <item itemvalue="Application.FindMissingNumber" />
+        <item itemvalue="Application.Pattern" />
       </list>
     </recent_temporary>
   </component>

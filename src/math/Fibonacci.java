@@ -19,4 +19,8 @@ public class Fibonacci {
         }
 
     }
+
+    public static long arrayFibo(int[] fab) {
+        return 0;
+    }
 }
