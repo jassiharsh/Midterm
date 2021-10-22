@@ -6,10 +6,10 @@ public class UnitTestingStudentProfile {
     public static void main(String[] args) {
         //Apply Unit Test into all the methods in this package.
 
-        Student student = new Student("Sultan", "Sheikh", "Platinum", "007");
+        Student student = new Student("Jaspreet", "Kaur", "Platinum", "002");
 
         try {
-            Assert.assertEquals(student.getFirstName(), "Sultan");
+            Assert.assertEquals(student.getFirstName(), "Jaspreet");
             System.out.println("Test Passed getFirstName");
         } catch (AssertionError as) {
             System.out.println("Test Failed getFirstName");
@@ -18,7 +18,7 @@ public class UnitTestingStudentProfile {
         }
 
         try {
-            Assert.assertEquals(student.getLastName(), "Sheikh");
+            Assert.assertEquals(student.getLastName(), "Jaspreet");
             System.out.println("Test passed lastName");
         } catch (AssertionError as) {
             System.out.println("Test Failed lastName");
@@ -45,7 +45,7 @@ public class UnitTestingStudentProfile {
         }
 
         try {
-            Assert.assertEquals(student.toString(), "Student(id= 007)Sultan Sheikh  Grade = Platinum");
+            Assert.assertEquals(student.toString(), "Student(id= 002)Jaspreet Kaur Grade = Platinum");
             System.out.println("Test passed toString");
         } catch (AssertionError as) {
             System.out.println("Test Failed toString");
