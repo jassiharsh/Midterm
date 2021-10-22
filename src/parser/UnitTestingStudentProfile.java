@@ -1,4 +1,5 @@
 package parser;
+
 import org.testng.Assert;
 
 public class UnitTestingStudentProfile {
@@ -51,7 +52,5 @@ public class UnitTestingStudentProfile {
             System.out.println(as.getMessage());
             System.out.println(as.getStackTrace());
         }
-
-
     }
 }

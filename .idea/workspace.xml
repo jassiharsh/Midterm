@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9771989b-51b3-4e7c-b47c-ddb973a42c7b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/parser/ProcessStudentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/ProcessStudentInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/parser/UnitTestingStudentProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/UnitTestingStudentProfile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/parser/XmlReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/XmlReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/DuplicateWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/UnitTestingStringProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/UnitTestingStringProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +138,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnitTestingStringProblem">
+  <component name="RunManager" selected="Application.UnitTestingStudentProfile">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
@@ -266,8 +261,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnitTestingStringProblem" />
         <item itemvalue="Application.UnitTestingStudentProfile" />
+        <item itemvalue="Application.UnitTestingStringProblem" />
         <item itemvalue="Application.ProcessStudentInfo" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.UnitTestingMath" />
